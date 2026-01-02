@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "kid": "medlink-prod-1",
+      "use": "sig",
+      "alg": "RS256",
+      "n": "26_Xg4COYa0kysTtzEnqVAOZGi8iPTCI3ahtB9Y0zZLyVo6TPN6qxgPnW_jIVZXAh9AH7GluGeKWSRZhqVMFGjHQ_kn2YJGmJ2pHpgDtJSzqIFMS433fGwbGNcvmJ6ylLKrbzppqipT2S3YGzoetQDFhjpt7hc35jWVoTn-ySUsncWqUCbBYLzRtkvnG9khzwb10xtoi57Paq4OmdGTFXF9psxK-RsZ8Mmf1jzQcVbHybg6jBuxvRV5SvForzH1OxtVoUTAeUkgztZYd4WJUahgYAb97ZX3HM1szjfehE1LX672ATSFK8tW9Y6zxbo827oHbyKObqRZvBjJdBeXWRw",
+      "e": "AQAB"
+    }
+  ]
+}
